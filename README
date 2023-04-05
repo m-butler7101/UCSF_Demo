@@ -1,3 +1,11 @@
-The included "requirements.txt" file lists each of this algorithm's dependencies
-
+** 
 This repository is strictly for demonstration purposes only and should not be used clinically
+**
+
+The included "requirements.txt" file lists each of the dependencies
+
+Execute the algorithm via:
+
+python main.py
+
+After the program is executed, all of the output data can be found in the directory titled "output_data", which will be automatically created by the algorithm and located in the same directory as the "main.py" file
